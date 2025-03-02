@@ -1,0 +1,6 @@
+name = "dummy-data-generator"
+main = "worker.js"
+account_id = "2c1a00b38edc126e140bcdb35b2991fd"
+workers_dev = true
+compatibility_date = "2024-03-01"
+
